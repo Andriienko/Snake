@@ -1,0 +1,6 @@
+c:\users\r2d2\documents\visual studio 2013\Projects\Snakee\Snakee\bin\Debug\Snakee.exe.config
+c:\users\r2d2\documents\visual studio 2013\Projects\Snakee\Snakee\bin\Debug\Snakee.exe
+c:\users\r2d2\documents\visual studio 2013\Projects\Snakee\Snakee\bin\Debug\Snakee.pdb
+c:\users\r2d2\documents\visual studio 2013\Projects\Snakee\Snakee\obj\Debug\Snakee.exe
+c:\users\r2d2\documents\visual studio 2013\Projects\Snakee\Snakee\obj\Debug\Snakee.pdb
+c:\users\r2d2\documents\visual studio 2013\Projects\Snakee\Snakee\obj\Debug\Snakee.csprojResolveAssemblyReference.cache
